@@ -1,1 +1,1 @@
-# Fruit_quality_detection_using_objectdetection_NN
+# Fruit quality detection using objectdetection and deep neural networks
